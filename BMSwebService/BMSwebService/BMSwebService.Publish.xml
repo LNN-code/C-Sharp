@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\新建文件夹\BMSwebService\setup" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/BMSwebService.pdb" publishTime="06/10/2020 19:25:11" />
+    <file relUrl="bin/BMSwebService.dll" publishTime="06/10/2020 19:25:11" />
+    <file relUrl="Web.config" publishTime="06/10/2020 18:02:12" />
+    <file relUrl="USERwebService1.asmx" publishTime="06/10/2020 16:17:21" />
+  </publishProfile>
+</publishData>

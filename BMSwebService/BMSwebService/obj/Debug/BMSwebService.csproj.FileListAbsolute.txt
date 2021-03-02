@@ -1,0 +1,5 @@
+D:\新建文件夹\BMSwebService\BMSwebService\obj\Debug\BMSwebService.csprojResolveAssemblyReference.cache
+D:\新建文件夹\BMSwebService\BMSwebService\bin\BMSwebService.dll
+D:\新建文件夹\BMSwebService\BMSwebService\bin\BMSwebService.pdb
+D:\新建文件夹\BMSwebService\BMSwebService\obj\Debug\BMSwebService.dll
+D:\新建文件夹\BMSwebService\BMSwebService\obj\Debug\BMSwebService.pdb
